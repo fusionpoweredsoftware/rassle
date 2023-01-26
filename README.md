@@ -1,7 +1,7 @@
 # RASSLE: Reinforcement and Self-Supervised Learning Engine
 RASSLE is a C++ library that combines elements of reinforcement learning and self-supervised learning to train agents for various tasks. The library is built with flexibility in mind, allowing users to easily modify and experiment with different algorithms and architectures.
 
-##Features
+## Features
 Combined reinforcement and self-supervised learning: RASSLE allows you to use both reinforcement learning and self-supervised learning techniques to train your agents.
 Flexible architecture: RASSLE provides a set of interfaces and classes that can be easily extended and modified to suit your needs.
 Easy to use: RASSLE has a simple and well-documented API, making it easy to use even for those new to reinforcement and self-supervised learning.
