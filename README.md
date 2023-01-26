@@ -1,4 +1,4 @@
-#RASSLE: Reinforcement and Self-Supervised Learning Engine
+# RASSLE: Reinforcement and Self-Supervised Learning Engine
 RASSLE is a C++ library that combines elements of reinforcement learning and self-supervised learning to train agents for various tasks. The library is built with flexibility in mind, allowing users to easily modify and experiment with different algorithms and architectures.
 
 ##Features
@@ -9,7 +9,7 @@ Pre-training support: RASSLE allows you to use pre-trained models to initialize 
 Installation
 To install RASSLE, clone the repository and build the code using CMake.
 
-##Copy code
+## Copy code
 git clone https://github.com/yourusername/RASSLE.git
 cd RASSLE
 mkdir build
