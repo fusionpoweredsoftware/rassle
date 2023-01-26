@@ -11,7 +11,6 @@ RASSLE is a C++ library that combines elements of reinforcement learning and sel
 To install RASSLE, clone the repository and build the code using CMake.
 
   git clone https://github.com/yourusername/RASSLE.git
-  
   cd RASSLE
   
   mkdir build
